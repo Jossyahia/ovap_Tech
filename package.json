@@ -1,0 +1,17 @@
+{
+  "name": "ovap_tech",
+  "version": "1.0.0",
+  "description": "ovap Technologies",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Ovap",
+    "Technologies",
+    "Officail",
+    "Website"
+  ],
+  "author": "Ahia",
+  "license": "ISC"
+}
