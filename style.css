@@ -111,6 +111,11 @@
     background-color: var(--secondary-color);
     color: white;
   }
+  .cta-sec a {
+    text-decoration: none;
+    background-color: var(--secondary-color);
+    color: white;
+  }
   
   .hero {
     position: absolute;
